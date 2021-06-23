@@ -11,7 +11,7 @@
             <div class="card mb-3" style="max-width: 540px;" >
               <div class="row no-gutters" >
                   <div class="col-md-4">
-                  <img src="C:\Users\Roxana\Pictures\Ro" class="card-img" alt="..." style="margin-left:5px  ; margin-top:5px " />
+                  <img src="Image/CollettiRoxana.png" class="card-img" alt="..." style="margin-left:5px  ; margin-top:5px; width:50px " />
                 </div>
                 <div class="col-md-8" >
                   <div class="card-body">
